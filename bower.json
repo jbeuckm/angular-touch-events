@@ -1,0 +1,23 @@
+{
+  "name": "angular-touch-events",
+  "main": "angular-touch-events.js",
+  "version": "0.0.1",
+  "authors": [
+    "joebeuckman@gmail.com"
+  ],
+  "description": "Directives that access lower level touch events, ie. touchstart, touchmove, touchleave, touchend",
+  "keywords": [
+    "angular",
+    "touch",
+    "event"
+  ],
+  "license": "Don't read software licenses. Don't write software licenses.",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ]
+}
